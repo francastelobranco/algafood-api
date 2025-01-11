@@ -1,6 +1,6 @@
 # 🚀 Projeto Especialista Spring REST (ESR) - AlgaWorks
 
-Seja bem-vindo(a) ao **Projeto Especialista Spring REST**, que irei desenvolver durante o curso **Especialista Spring REST (ESR)** da AlgaWorks! 🌟
+Seja bem-vindo(a) ao **Projeto Especialista Spring REST**, que irei desenvolver durante o curso **Especialista Spring REST (ESR)** da AlgaWorks! 
 
 Neste projeto, iremos criar uma REST API robusta e moderna, aplicando as **melhores práticas de mercado** e explorando funcionalidades avançadas com **Spring Boot**.
 
@@ -8,16 +8,16 @@ Neste projeto, iremos criar uma REST API robusta e moderna, aplicando as **melho
 
 O curso **Especialista Spring REST** vai além do básico e transforma o aprendizado de CRUDs em um domínio completo sobre REST APIs. Com um conteúdo prático e detalhado, abrange temas essenciais e avançados, como:
 
-- **Segurança com JWT e OAuth2** 🔒
-- **Upload de arquivos e envio de e-mails** 📂📧
-- **Caches para melhorar desempenho** ⚡
-- **HATEOAS para enriquecer APIs REST** 🌐
-- **Documentação com Swagger/OpenAPI** 📖
-- **Testes de integração para garantir qualidade** 🧪
-- **Projeções avançadas com JPA** 🗂️
-- **Arquitetura com DDD e Domain Events** 🏗️
-- **Migração e versionamento de banco de dados com Flyway** 📦
-- **E muito mais!** 🚀
+- **Segurança com JWT e OAuth2** 
+- **Upload de arquivos e envio de e-mails** 
+- **Caches para melhorar desempenho** 
+- **HATEOAS para enriquecer APIs REST** 
+- **Documentação com Swagger/OpenAPI** 
+- **Testes de integração para garantir qualidade** 
+- **Projeções avançadas com JPA** 🗂
+- **Arquitetura com DDD e Domain Events** 🏗
+- **Migração e versionamento de banco de dados com Flyway** 
+- **E muito mais!** 
 
 ---
 
