@@ -14,8 +14,8 @@ O curso **Especialista Spring REST** vai além do básico e transforma o aprendi
 - **HATEOAS para enriquecer APIs REST** 
 - **Documentação com Swagger/OpenAPI** 
 - **Testes de integração para garantir qualidade** 
-- **Projeções avançadas com JPA** 🗂
-- **Arquitetura com DDD e Domain Events** 🏗
+- **Projeções avançadas com JPA** 
+- **Arquitetura com DDD e Domain Events** 
 - **Migração e versionamento de banco de dados com Flyway** 
 - **E muito mais!** 
 
